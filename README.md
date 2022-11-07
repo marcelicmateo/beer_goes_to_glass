@@ -39,15 +39,17 @@ Na kraju krajeva, koliko cijeli sustav pokretanja djelova mora bit modularan? Da
   Has Linux, we can make everithing fully custumisible as we want.
   will need custom hats for controling HW
   can run Node red, development should be easier but maybe laggy
+- ESP32, nema flash, dovoljno jak da moze biti konfigurabilan.
 - accelerometer for detecting tap angle
 - high tork motor
 - LED strip?? needs defining
 
 ### BOM
 
-| Item                                                                                                                                                                                                              | Price |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [Accelerometre](https://www.chipoteka.hr/3-axis-digital-acceleration-sensor-module-mma8452-vma208-wpse208-9150036251) | 59,00kn |
-| [Rpi3](https://www.chipoteka.hr/raspberry-pi-3-model-b-wifi-bluetooth-onboard-8208000130?search=raspberry%20pi&description=0) | 389,00kn  |
-| servo| |
-| LED| |
+| Item                                                                                                                          | Price    |
+| ----------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Accelerometre](https://www.chipoteka.hr/3-axis-digital-acceleration-sensor-module-mma8452-vma208-wpse208-9150036251)         | 59,00kn  |
+| [Rpi3](https://www.chipoteka.hr/raspberry-pi-3-model-b-wifi-bluetooth-onboard-8208000130?search=raspberry%20pi&description=0) | 389,00kn |
+| Motor                                                                                                                         |          |
+| Motor driver                                                                                                                  |          |
+| LED                                                                                                                           |          |
