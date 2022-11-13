@@ -24,13 +24,26 @@ From SW perspective
 
 ## Quesion to designer
 
-1. Imamo li pristup cijevima kojima teče piva? Ako da, možemo li onda njih koristiti za detekciju kada pivo teče ili ne?
-2. Dali radimo svoju ručku točionika? Kako ukomponirati žice da ne smetaju bartener? Accelerometar za mjerenje kada se toči pivo. e.g. <https://www.hackster.io/26972/tap-tracker-smart-tap-handle-ae15ba>
-3. Koliko velike su stvari koje se okreću, zubčanici? Pitanje je koliko jaki motor teba imati.
-4. Koliko brzo se vrte stvari? high tork, low speed? Modularnost/podesivost?
-5. Svejtla, dali postoje? Boja? Uzorak? Modularnost?
+1. Dali radimo svoju ručku točionika? Kako ukomponirati žice da ne smetaju bartener? Accelerometar za mjerenje kada se toči pivo. e.g. <https://www.hackster.io/26972/tap-tracker-smart-tap-handle-ae15ba>
+2. Koliko velike su stvari koje se okreću, zubčanici? Pitanje je koliko jaki motor teba imati.
+3. Koliko brzo se vrte stvari? high tork, low speed? Modularnost/podesivost?
+4. Svejtla, dali postoje? Boja? Uzorak? Modularnost?
 
 Na kraju krajeva, koliko cijeli sustav pokretanja djelova mora bit modularan? Dali je to sustav koji će se napraviti jednom i takav ostati zauvjek? Ili mora imati mogućnosti dodatne kontrole, mijenjanja nekakvih parametara (vrtnja, svjetla)?
+
+### Answers
+
+1. Da.
+2. Ne prevelike. Pogledaj u tom shop. Ali biti ce metalni.
+3. Jako sporo, so high tork, low speed.
+4. Ledice postoje. Modularnost.
+5. People protection from cuting fingers.
+
+One time system.
+
+Posibiliti of a smoke machine.
+
+Quite machine.
 
 ## Selected tehnologies STUDY
 
